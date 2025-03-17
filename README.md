@@ -1,14 +1,13 @@
 # Olá, eu sou Bruno Soares Ribeiro
 
-Sou Analista de Qualidade do Software com experiência em testes manuais e automação de testes utilizando os frameworks Cypress, Selenium WebDriver e Postman.
+Sou Analista de Qualidade do Software com experiência em testes manuais e automatizados utilizando os frameworks Cypress, Selenium WebDriver e Postman.
 
 ## Habilidades
 - **Automação de Testes**:
   - Cypress
   - Selenium WebDriver
-  - Cucumber
 - **Testes de API**: Postman
-- **Linguagens de Programação**: JavaScript, TypeScript e Java
+- **Linguagens de Programação**: JavaScript e TypeScript
 - **Especificação de Testes**: Gherkin 
 - **Ferramentas de CI/CD**: GitHub Actions
 - **Outras Ferramentas**: Jira + Xray, TestRail
